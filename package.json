@@ -1,0 +1,15 @@
+{
+  "name": "yst",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react-native": "^0.17.0",
+    "react-native-contacts": "^0.1.5",
+    "react-native-navbar": "^1.1.4",
+    "react-native-toast": "^1.0.1",
+    "react-native-webview-bridge": "^0.16.1"
+  }
+}
